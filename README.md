@@ -69,7 +69,7 @@ The dataset contains 12,491 products with the following features:
 - Python 3.8+
 - Jupyter Notebook or Google Colab
 
-## Required Packages
+### Required Packages
 
 - pandas>=1.5.0
 - numpy>=1.21.0
@@ -90,13 +90,10 @@ The project includes comprehensive visualizations:
 
 📝 Methodology
 
-- Data Exploration: Comprehensive EDA with statistical analysis
+-Data Exploration: Comprehensive EDA with statistical analysis
 -Data Preprocessing: Handling missing values, encoding, normalization
 -Feature Engineering: One-hot encoding for categorical variables
 -Model Training: Cross-validation and hyperparameter tuning
 -Model Evaluation: Accuracy, overfitting analysis, feature importance
 -Deployment Recommendation: Best model selection with business insights
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
