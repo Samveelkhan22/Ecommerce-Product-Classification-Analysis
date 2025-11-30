@@ -88,7 +88,7 @@ The project includes comprehensive visualizations:
 - Model performance comparisons
 - Decision tree visualizations
 
-📝 Methodology
+## 📝 Methodology
 
 - Data Exploration: Comprehensive EDA with statistical analysis
 - Data Preprocessing: Handling missing values, encoding, normalization
