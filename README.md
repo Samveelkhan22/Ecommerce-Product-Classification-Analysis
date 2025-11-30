@@ -90,10 +90,10 @@ The project includes comprehensive visualizations:
 
 📝 Methodology
 
--Data Exploration: Comprehensive EDA with statistical analysis
--Data Preprocessing: Handling missing values, encoding, normalization
--Feature Engineering: One-hot encoding for categorical variables
--Model Training: Cross-validation and hyperparameter tuning
--Model Evaluation: Accuracy, overfitting analysis, feature importance
--Deployment Recommendation: Best model selection with business insights
+- Data Exploration: Comprehensive EDA with statistical analysis
+- Data Preprocessing: Handling missing values, encoding, normalization
+- Feature Engineering: One-hot encoding for categorical variables
+- Model Training: Cross-validation and hyperparameter tuning
+- Model Evaluation: Accuracy, overfitting analysis, feature importance
+- Deployment Recommendation: Best model selection with business insights
 
